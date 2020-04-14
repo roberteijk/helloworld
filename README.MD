@@ -1,6 +1,8 @@
 # Spring Boot project from documentation
-###Hello World
-#####Short explanation:
+
+### Hello World
+
+##### Short explanation:
 
 The hello() method we’ve added is designed to take a String parameter called name, and then combine this parameter with the word "Hello" in the code. This means that if you set your name to “Amy” in the request, the response would be “Hello Amy”.
 
